@@ -16,13 +16,13 @@
 *********
 
 ##  Skills: 
-    HTML
-    CSS
-    Javascript
-    Typescript
-    ReactJS
-    NodeJS
-    Git, Github
+    + HTML
+    + CSS
+    + Javascript
+    + Typescript
+    + ReactJS
+    + NodeJS
+    + Git, Github
 
 *********
 
@@ -41,12 +41,17 @@
 ##  Education and courses:
     Academic Lyceum under Westminster International University in Tashkent - Exact Sciences | 2022 - 2024
   
-    Rolling Scopes School - JS/FE Pre-School | 2022 [Certificate](https://app.rs.school/certificate/3582kblc)
+    Rolling Scopes School - JS/FE Pre-School | 2022 [Certificate](https://app.rs.school/certificate/3582kblc).
     Rolling Scopes School  - JavaScript/Front-end | 2022Q1 [Certificate](https://app.rs.school/certificate/6ij0z4bw)
 
 *********
 
 ##  Language:
-    English - B2
-    Russian - Proficiency
-    Uzbek - Proficiency
+    * English - B2
+    * Russian - Proficiency
+    * Uzbek - Proficiency
+*********
+
+## Contacts:
+    * Email: shahzodubaydullaev2206@gmail.com
+    * Telegram: @shahzod_ub
